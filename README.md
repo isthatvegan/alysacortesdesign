@@ -1,8 +1,6 @@
-## Developer Portfolio Landing Page Template
+### welcome! get comfortable
 
-### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I'm Alysa, a UX/UI designer based in Ontario Canada. I coded this myself <3
 
 <img src="images/demo.gif?raw=true"/>
 
